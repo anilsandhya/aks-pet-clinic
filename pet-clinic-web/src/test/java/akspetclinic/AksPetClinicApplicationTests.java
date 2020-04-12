@@ -1,4 +1,4 @@
-package com.springframework.akspetclinic;
+package akspetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.junit.runner.RunWith;
